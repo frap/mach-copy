@@ -1,1 +1,3 @@
-{:aws-profile #env AWS_PROFILE}
+{:aws-profile #env AWS_PROFILE
+ :mach-home   #env MACH_HOME
+ :colours     #env GCC_COLORS}
